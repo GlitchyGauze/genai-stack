@@ -18,3 +18,6 @@ langchain-google-genai==2.0.3
 langchain-ollama==0.2.0
 langchain-huggingface==0.1.1
 langchain-aws==0.2.4
+
+# Custom Additions
+ipykernel
