@@ -11,6 +11,7 @@ uvicorn
 sse-starlette
 boto3
 streamlit
+ollama
 # missing from the langchain base image?
 langchain
 langchain-core
